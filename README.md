@@ -1,5 +1,14 @@
-### Hello 👋, I'm Victor Aderibigbe
+### Hi there 👋 
+### I am Samuel
+### I am a Machine Learning and data enthusiast 
+### I am currently working on the development of data-driven models
+---
+## Skills ⚒
+|Python |Pytorch |Pandas |
+|--- |--- |--- |
+|**Keras** |**SQL** |**Numpy** |
+---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=v0pe">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Aderibigbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/victor-damola-aderibigbe-27931ab0/)](https://www.linkedin.com/mwlite/in/victor-damola-aderibigbe-27931ab0)
+## Contact me 📬
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Samuel-Ayankoso) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-ayankoso/)  
