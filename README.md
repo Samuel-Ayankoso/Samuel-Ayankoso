@@ -8,16 +8,15 @@
 |--- |--- |--- |
 |**Keras** |**SQL** |**Numpy** |
 ---
-
 🔥 Editors:
 VS Code
 ████████████████████████
 💻 Operating System:
 Windows
 █████████████████████████
-
-```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V0pe&theme=radical)](https://github.com/Samuel-Ayankoso/github-readme-stats) ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=V0pe&show_icons=true&theme=radical)
+---
+## My stats 📊
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Ayankoso&show_icons=true) 
 
 
 ## Contact me 📬
