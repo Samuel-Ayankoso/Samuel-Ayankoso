@@ -5,7 +5,7 @@
 
 ---
 ## Skills ⚒
-|Python |Ros |Matab |SolidWorks | 
+|**Python** |**Ros** |**Matlab** |**SolidWorks** | 
 
 |**Excel** |**SQL** |**PowerBi** |
 
