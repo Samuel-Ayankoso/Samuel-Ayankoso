@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### I am Samuel
-### I am a machine learning, roboticist and data enthusiast 
+### I am a machine learning and robotics researcher
 ### I am currently working on projects involving the use of robots, AI and other smart technologies to help in the monitoring and maintenance of critical infrastructure.
 
 ---
