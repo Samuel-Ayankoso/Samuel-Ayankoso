@@ -1,13 +1,14 @@
 ### Hi there 👋 
 ### I am Samuel
-### I am a Machine Learning and data enthusiast 
-### I am currently working on the development of data-driven models
+### I am a machine learning, roboticist and data enthusiast 
+### I am currently working on projects involving the use of robots, AI and other smart technologies to help in the monitoring and maintenance of critical infrastructure.
 
 ---
 ## Skills ⚒
-|Python |Pytorch |Pandas |
+|Python |Ros |Matab |SolidWorks | 
 |--- |--- |--- |
-|**Keras** |**SQL** |**Numpy** |
+|**Excel** |**SQL** |**PowerBi** |
+
 
 ---
 ## Contact me 📬
